@@ -2,9 +2,6 @@
 
 **Human specific polymorphic pseudogenization of SIGLEC12 and its protective role in advanced cancer progression.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
-
 ## Overview
 
 This repository contains the computational analysis behind our study on SIGLEC12, a human specific Siglec whose loss of function through polymorphic pseudogenization correlates with reduced advanced cancer risk. We integrate transcriptomic profiles across multiple cancer cohorts and use Boolean implication reasoning to place SIGLEC12 in its regulatory context.
